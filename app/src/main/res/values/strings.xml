@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ежедневные лайфхаки</string>
+    <string name="login_email_hint">Логин / Почта</string>
+    <string name="password_hint">Пароль</string>
+    <string name="login_hint">Логин</string>
+    <string name="email_hint">Почта</string>
+    <string name="enter">ВОЙТИ</string>
+    <string name="sign_up">СОЗДАТЬ АККАУНТ</string>
+    <string name="no_account">НЕТ АККАУНТА?</string>
+    <string name="has_account">ЕСТЬ АККАУНТ?</string>
+
+    <string name="password_validation_error">Пароль должен быть от 2 до 20 символов</string>
+    <string name="email_validation_error">Почта не валидная</string>
+    <string name="login_validation_error">Логин должен быть от 6 до 50 символов и содержать латинские символы или цифры</string>
+
+    <string name="article_saved">Сохранено</string>
+    <string name="article_not_saved">Сохранить</string>
+</resources>
